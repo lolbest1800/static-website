@@ -154,10 +154,10 @@
 
 .hero-text
 {
-    display: grid;
-    place-items: center;
-    padding-top: 20vh;
-    font-size: 36px;
+    display: flex;
+        justify-content: center;
+    padding-top: 25vh;
+    font-size: 32px;
     font-weight: bold;
 
 
