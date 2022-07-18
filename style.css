@@ -362,7 +362,7 @@
     transform: scale(1.2);
     cursor: pointer;
 }
-
+/*
 .shop-item-price
 {
     position: absolute;
@@ -374,6 +374,7 @@
     padding: 8px;
     border-radius: 2px;
 }
+*/
 .shop-item-info-container
 {
     padding: 10px;
@@ -482,7 +483,7 @@
         margin-bottom: 50px;
     }
 }
-
+/*
 .single-shop-item-price
 {
     background-color: #000000;
@@ -500,7 +501,7 @@
 
 
 }
-
+*/
 
 .single-shop-item-data-sheat-container
 {
